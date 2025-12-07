@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛されたいって願ってる",
+  "base_artist": "MIMI",
+  "createdAt": "2025-12-07T16:23:07.505568Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛されたいって願ってる",
+      "artist": "MIMI & WHITEBOX",
+      "has_synced": false,
+      "path": "select/pl_01_愛されたいって願ってる_MIMI_&_WHITEBOX.txt"
+    }
+  ]
+}
